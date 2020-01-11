@@ -1,0 +1,16 @@
+imageio==2.2.0
+itsdangerous==0.24
+Jinja2==2.10
+MarkupSafe==1.0
+matplotlib==2.1.2
+moviepy==0.2.3.2
+numpy==1.14.1
+opencv-python==3.4.0.12
+Pillow==5.0.0
+pyparsing==2.2.0
+python-dateutil==2.6.1
+pytz==2018.3
+six==1.11.0
+tqdm==4.19.5
+seaborn 
+pandas
